@@ -133,6 +133,7 @@
   }
   .container .calculator span:active{
       background: #14ff47;
+    
       color: #192f00;
       font-size: 24px;
       font-weight: 500;
