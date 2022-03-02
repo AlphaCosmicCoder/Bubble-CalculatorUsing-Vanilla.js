@@ -50,6 +50,12 @@
       top: 0;
       transition: 0.4s;
   }
+  .foot{
+      color: var(--foot-color);
+  }
+  .foot::before{
+      color: black;
+  }
   .slider:before{
       background-color: rgb(11, 145, 255);
       content: "";
